@@ -1,3 +1,9 @@
+***********
+Malloc Lab Assignment(CMU): http://csapp.cs.cmu.edu/3e/malloclab.pdf
+CMU Lecture Handout: https://drive.google.com/file/d/1gjnMEJ-y_b7PgqTAq-efAWA-y1djKzy6/view
+Computer Systems(CS:APP): http://csapp.cs.cmu.edu/3e/labs.html
+***********
+
 #####################################################################
 # CS:APP Malloc Lab
 # Handout files for students
